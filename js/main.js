@@ -1,7 +1,7 @@
 
 (function ($) {
     "use strict";
-
+ /*coba bisa ganti gaaa ini file
 
     /*==================================================================
     [ Focus input ]*/
