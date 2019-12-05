@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 
+<<<<<<< HEAD:index2.php
 ini branch dari edwin
+=======
+<!--Test-->
+
+>>>>>>> master:index3.php
 <head>
     <title>Login V16</title>
     <meta charset="UTF-8">
