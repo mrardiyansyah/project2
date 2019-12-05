@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 
+<<<<<<< HEAD:index2.php
+<anaryaindika>
+=======
 <!--Test-->
+>>>>>>> master:index3.php
 
 <head>
     <title>Login V16</title>
